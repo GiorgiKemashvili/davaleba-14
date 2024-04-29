@@ -26,3 +26,9 @@ if (personsArray[1].age < 19) {
   } else {
     console.log("I am an adult");
   }
+  // Task 5
+const numbersArray2 = [10, 20, 30, 40, 50];
+console.log("Elements of the array:");
+for (let i = 0; i < numbersArray2.length; i++) {
+  console.log(numbersArray2[i]);
+}
