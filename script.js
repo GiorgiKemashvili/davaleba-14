@@ -20,3 +20,9 @@ console.log(
     ", My address is",
     personsArray[0].address
   );
+  // Task 4
+if (personsArray[1].age < 19) {
+    console.log("I am a teenager");
+  } else {
+    console.log("I am an adult");
+  }
