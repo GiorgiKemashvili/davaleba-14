@@ -11,3 +11,12 @@ const personsArray = [
     { name: "Jane", age: 18, address: "456 Elm St" },
     { name: "Alice", age: 30, address: "789 Oak St" },
   ];
+  // Task 3
+console.log(
+    "My name is",
+    personsArray[0].name,
+    ", My age is",
+    personsArray[0].age,
+    ", My address is",
+    personsArray[0].address
+  );
