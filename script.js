@@ -5,3 +5,9 @@ for (let i = 0; i < numbersArray.length; i++) {
   sum += numbersArray[i];
 }
 console.log("Sum of all elements:", sum);
+// Task 2
+const personsArray = [
+    { name: "John", age: 25, address: "123 Main St" },
+    { name: "Jane", age: 18, address: "456 Elm St" },
+    { name: "Alice", age: 30, address: "789 Oak St" },
+  ];
